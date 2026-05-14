@@ -34,7 +34,7 @@ Sistema web desarrollado para una ferretería con:
 - SQL Server
 - Bootstrap
 
-🔗 [Ver Proyecto](LINK_DE_TU_REPOSITORIO)
+🔗 [Ver Proyecto]([LINK_DE_TU_REPOSITORIO](https://github.com/josephblancoromero/VENTAS-SISTEMA))
 
 ---
 
