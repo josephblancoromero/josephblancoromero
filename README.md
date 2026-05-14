@@ -1,4 +1,5 @@
-# Hola 👋 Soy Joseph
+<h1 align="center">Hola 👋, soy Joseph Blanco Romero</h1>
+<h3 align="center">Desarrollador ASP.NET Core MVC</h3>
 
 🎓 Estudiante de Ingeniería de Sistemas  
 💻 Desarrollador Web ASP.NET Core MVC  
