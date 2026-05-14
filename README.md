@@ -42,6 +42,8 @@ Sistema web desarrollado para una ferretería con:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=josephblancoromero&show_icons=true&theme=tokyonight)
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=josephblancoromero&show_icons=true&theme=tokyonight)
+![Joseph GitHub stats](https://github-readme-stats.vercel.app/api?username=josephblancoromero&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephblancoromero&layout=compact&theme=tokyonight)
 
 ---
 
