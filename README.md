@@ -40,7 +40,7 @@ Sistema web desarrollado para la gestión de ventas e inventario.
 - Bootstrap
 
 🔗 Proyecto:
-- [Sistema Web FECOM](https://github.com/josephblancoromero/VENTAS-SISTEMA?utm_source=chatgpt.com)
+- [Sistema Web FECOM](https://github.com/josephblancoromero/VENTAS-SISTEMA)
 
 ---
 
@@ -62,7 +62,7 @@ API REST profesional desarrollada con ASP.NET Core Web API y JWT Authentication.
 - Swagger
 
 🔗 Proyecto:
-- [API REST FECOM](https://github.com/josephblancoromero/API-FECOM?utm_source=chatgpt.com)
+- [API REST FECOM](https://github.com/josephblancoromero/API-FECOM)
 
 ---
 
@@ -71,8 +71,6 @@ API REST profesional desarrollada con ASP.NET Core Web API y JWT Authentication.
 <p align="center">
 
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=josephblancoromero&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephblancoromero&layout=compact&theme=tokyonight"/>
 
 </p>
 
