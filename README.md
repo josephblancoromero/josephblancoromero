@@ -4,7 +4,7 @@
 🎓 Estudiante de Ingeniería de Sistemas  
 💻 Desarrollador Web ASP.NET Core MVC  
 🛠️ Especializado en sistemas de ventas e inventario  
-📍 Huancayo, Perú
+📍  Perú
 
 ---
 
