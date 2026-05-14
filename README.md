@@ -40,11 +40,11 @@ Sistema web desarrollado para una ferretería con:
 
 # 📊 Estadísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=josephblancoromero&show_icons=true&theme=tokyonight)
 
 ---
 
 # 📫 Contacto
 
-- GitHub: https://github.com/TUUSUARIO
-- Email: tucorreo@gmail.com
+- GitHub: https://github.com/josephblancoromero
+- Email: Joseph-_01@hotmail.com
