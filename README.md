@@ -40,7 +40,7 @@ Sistema web desarrollado para la gestión de ventas e inventario.
 - Bootstrap
 
 🔗 Proyecto:
-- :contentReference[oaicite:0]{index=0}
+- [Sistema Web FECOM](https://github.com/josephblancoromero/VENTAS-SISTEMA)
 
 ---
 
@@ -62,7 +62,7 @@ API REST profesional desarrollada con ASP.NET Core Web API y JWT Authentication.
 - Swagger
 
 🔗 Proyecto:
-- :contentReference[oaicite:1]{index=1}
+- [API REST FECOM](https://github.com/josephblancoromero/API-FECOM)
 
 ---
 
@@ -85,7 +85,7 @@ Sistema administrativo desarrollado con ASP.NET Core MVC implementando autentica
 - Bootstrap
 
 🔗 Proyecto:
-- :contentReference[oaicite:2]{index=2}
+- [Sistema Login y Roles](https://github.com/josephblancoromero/Sistema-Login-Roles)
 
 ---
 
