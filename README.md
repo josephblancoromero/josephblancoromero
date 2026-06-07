@@ -5,7 +5,7 @@
 ### 💻 Desarrollador ASP.NET Core MVC & Web API
 
 🎓 Estudiante de Ingeniería de Sistemas  
-🚀 Especializado en sistemas web, APIs REST y SQL Server  
+🚀 Apasionado por el desarrollo de sistemas empresariales, APIs REST y dashboards interactivos  
 📍 Huancayo, Perú
 
 </div>
@@ -24,76 +24,98 @@
 
 ## 🏪 Sistema Web FECOM
 
-Sistema web desarrollado para la gestión de ventas e inventario.
+Sistema web para la gestión de ventas e inventario de una ferretería.
 
-### 🔥 Características
+### Tecnologías
+- ASP.NET Core MVC
+- Entity Framework Core
+- SQL Server
+- Bootstrap
+
+### Funcionalidades
 - Gestión de productos
 - Facturación
 - Control de inventario
 - Gestión de clientes
 - Dashboard administrativo
 
-### 🛠️ Tecnologías
-- ASP.NET Core MVC
-- SQL Server
-- Entity Framework
-- Bootstrap
-
-🔗 Proyecto:
-- [Sistema Web FECOM](https://github.com/josephblancoromero/VENTAS-SISTEMA)
+🔗 Repositorio:
+- :contentReference[oaicite:0]{index=0}
 
 ---
 
 ## 🚀 API REST FECOM
 
-API REST profesional desarrollada con ASP.NET Core Web API y JWT Authentication.
+API REST profesional desarrollada con ASP.NET Core Web API.
 
-### 🔥 Características
-- Login JWT
-- CRUD Productos
-- Arquitectura REST
-- Swagger
-- Entity Framework Core
-
-### 🛠️ Tecnologías
+### Tecnologías
 - ASP.NET Core Web API
 - SQL Server
+- Entity Framework Core
 - JWT Authentication
 - Swagger
 
-🔗 Proyecto:
-- [API REST FECOM](https://github.com/josephblancoromero/API-FECOM)
+### Funcionalidades
+- Login JWT
+- CRUD Productos
+- Arquitectura RESTful
+- Seguridad mediante Tokens
+
+🔗 Repositorio:
+- :contentReference[oaicite:1]{index=1}
 
 ---
 
 ## 🔐 Sistema Login y Roles
 
-Sistema administrativo desarrollado con ASP.NET Core MVC implementando autenticación y autorización mediante Identity.
+Sistema administrativo con autenticación y autorización.
 
-### 🔥 Características
-- Login y Registro
-- Roles Admin y Empleado
-- Protección de páginas
-- Dashboard administrativo
-- Seguridad con ASP.NET Identity
-
-### 🛠️ Tecnologías
+### Tecnologías
 - ASP.NET Core MVC
 - ASP.NET Identity
 - SQL Server
-- Entity Framework Core
 - Bootstrap
 
-🔗 Proyecto:
-- [Sistema Login y Roles](https://github.com/josephblancoromero/Sistema-Login-Roles)
+### Funcionalidades
+- Registro de usuarios
+- Login seguro
+- Roles Admin y Empleado
+- Protección de páginas
+
+🔗 Repositorio:
+- :contentReference[oaicite:2]{index=2}
 
 ---
 
-# 📊 Estadísticas GitHub
+## 📊 Dashboard de Ventas
+
+Dashboard empresarial con métricas, gráficos y tablas dinámicas.
+
+### Tecnologías
+- ASP.NET Core MVC
+- SQL Server
+- Chart.js
+- AJAX
+- DataTables
+- Bootstrap
+
+### Funcionalidades
+- KPIs de negocio
+- Ventas mensuales
+- Productos con stock bajo
+- Gráficos interactivos
+- Tablas dinámicas
+
+🔗 Repositorio:
+- :contentReference[oaicite:3]{index=3}
+
+---
+
+# 📈 Estadísticas GitHub
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=josephblancoromero&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=josephblancoromero&show_icons=true&theme=tokyonight"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephblancoromero&layout=compact&theme=tokyonight"/>
 
@@ -101,7 +123,7 @@ Sistema administrativo desarrollado con ASP.NET Core MVC implementando autentica
 
 ---
 
-# 🔥 Actividad GitHub
+# 🔥 Actividad
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=josephblancoromero&theme=tokyonight" />
@@ -109,27 +131,38 @@ Sistema administrativo desarrollado con ASP.NET Core MVC implementando autentica
 
 ---
 
-# 📚 Actualmente Aprendiendo
+# 🎯 Objetivo Profesional
 
-✅ ASP.NET Core MVC  
-✅ ASP.NET Core Web API  
-✅ JWT Authentication  
-✅ ASP.NET Identity  
-✅ Arquitectura por capas  
-✅ Entity Framework Core  
-✅ SQL Server  
+Desarrollarme como Backend Developer especializado en tecnologías .NET, participando en el desarrollo de aplicaciones empresariales, APIs REST y soluciones escalables para negocios.
 
 ---
 
-# 🎯 Objetivo Profesional
+# 📚 Actualmente Aprendiendo
 
-Desarrollarme como backend developer especializado en tecnologías .NET, construyendo aplicaciones web y APIs modernas, escalables y seguras.
+✅ ASP.NET Core MVC
+
+✅ ASP.NET Core Web API
+
+✅ Entity Framework Core
+
+✅ JWT Authentication
+
+✅ ASP.NET Identity
+
+✅ SQL Server
+
+✅ Chart.js
+
+✅ AJAX
+
+✅ DataTables
 
 ---
 
 # 📫 Contacto
 
-- GitHub:
+GitHub:
+
 https://github.com/josephblancoromero
 
 </div>
