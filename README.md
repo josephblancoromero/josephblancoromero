@@ -40,7 +40,7 @@ Sistema web para la gestión de ventas e inventario de una ferretería.
 - Dashboard administrativo
 
 🔗 Repositorio:
-- :contentReference[oaicite:0]{index=0}
+- [Sistema Web FECOM](https://github.com/josephblancoromero/VENTAS-SISTEMA)
 
 ---
 
@@ -62,7 +62,7 @@ API REST profesional desarrollada con ASP.NET Core Web API.
 - Seguridad mediante Tokens
 
 🔗 Repositorio:
-- :contentReference[oaicite:1]{index=1}
+- [API REST FECOM](https://github.com/josephblancoromero/API-FECOM)
 
 ---
 
@@ -83,7 +83,7 @@ Sistema administrativo con autenticación y autorización.
 - Protección de páginas
 
 🔗 Repositorio:
-- :contentReference[oaicite:2]{index=2}
+- [Sistema Login y Roles](https://github.com/josephblancoromero/Sistema-Login-Roles)¿
 
 ---
 
@@ -107,19 +107,7 @@ Dashboard empresarial con métricas, gráficos y tablas dinámicas.
 - Tablas dinámicas
 
 🔗 Repositorio:
-- :contentReference[oaicite:3]{index=3}
-
----
-
-# 📈 Estadísticas GitHub
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=josephblancoromero&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephblancoromero&layout=compact&theme=tokyonight"/>
-
-</p>
+- [Dashboard de Ventas](https://github.com/josephblancoromero/Dashboard-Ventas)
 
 ---
 
